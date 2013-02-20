@@ -1,7 +1,7 @@
 {
     "name":                         "avoja/functional-test",
-    "description":                  "A Guzzle browser embedded in a PHPUnit testcase."
-    "license":                      "LGPL",
+    "description":                  "A Guzzle browser embedded in a PHPUnit testcase.",
+    "license":                      "LGPL-3.0+",
     "authors": [
         {
             "name":                 "Jacopo 'Jakuza' Romei",
